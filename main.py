@@ -6,5 +6,5 @@ reply = int(input(">>>"))
 if reply:
     play()
 else: 
-    print("Afsus, keyingi safar o'ynaymiz")
+    print("Afsus, keyingi!")
 
